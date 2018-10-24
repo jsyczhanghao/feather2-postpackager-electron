@@ -1,0 +1,22 @@
+{
+  "name": "feather2-postpackager-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsyczhanghao/feather2-postpackager-electron.git"
+  },
+  "author": "jsyczhanghao@sina.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsyczhanghao/feather2-postpackager-electron/issues"
+  },
+  "homepage": "https://github.com/jsyczhanghao/feather2-postpackager-electron#readme",
+  "dependencies": {
+    "feather2-postpackager-offline": "^1.0.0"
+  }
+}
